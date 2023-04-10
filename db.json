@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "_id": "1",
+      "name": "Product 1",
+      "price": "34.000",
+      "description": "product 1",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.5tOTc7EFI2TvNxsXrL6X8gHaIp&pid=Api&P=0",
+      "categoryId": "2"
+    },
+    {
+      "_id": "2",
+      "name": "Product 2",
+      "price": "78.000",
+      "description": "product 1",
+      "image": "https://vtv1.mediacdn.vn/2023/2/1/gia310123-1675185490008994842598.jpg",
+      "categoryId": "1"
+    },
+    {
+      "_id": "3",
+      "name": "Product 3",
+      "price": "45.000",
+      "description": "product 1",
+      "image": "https://cdn.shopdongho.com/2021/01/pierre-lannier-317B131.jpg",
+      "categoryId": "1"
+    }
+  ],
+  "categories": [
+    {
+      "_id": "1",
+      "name": "category A"
+    },
+    {
+      "_id": "2",
+      "name": "category B"
+    }
+  ],
+  "users": []
+}
